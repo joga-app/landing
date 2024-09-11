@@ -4,7 +4,7 @@ import DownloadAppButton from './DownloadAppButton';
 
 const Hero = () => {
   return (
-    <section className=" bg-lightGreen ">
+    <section id="home" className=" bg-lightGreen ">
       <div className="mx-auto min-h-[858px]  max-w-[1280px] pb-20 pt-4 md:pt-20 px-8 md:px-16 lg:px-0 flex flex-col-reverse md:flex-row items-center">
         <div className="w-full md:w-2/3 pr-0  text-center md:text-left">
           <h1 className="text-4xl md:text-6xl font-bold text-primary mb-12">

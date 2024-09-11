@@ -4,7 +4,7 @@ import DownloadAppButton from './DownloadAppButton';
 
 const Benefits = () => {
   return (
-    <section className="mb-16  relative overflow-hidden">
+    <section id="bora-jogar" className="mb-16  relative overflow-hidden">
       {/* Added overflow-hidden to hide button edges if needed */}
 
       <div className="max-w-[1280px] px-8 md:px-16 lg:px-0 mx-auto text-left ">

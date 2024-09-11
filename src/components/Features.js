@@ -35,7 +35,7 @@ const FeatureCard = ({ image, title, description }) => (
 
 const Features = () => {
   return (
-    <section className="min-h-[858px] my-16  px-8 md:px-16 lg:px-0">
+    <section id="funcionalidades" className="min-h-[858px] my-16  px-8 md:px-16 lg:px-0">
       <div className="max-w-[1280px] mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-left text-gray-800 mb-8">
           Funcionalidades

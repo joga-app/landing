@@ -10,14 +10,14 @@ const Header = () => {
       <div className="flex items-center">
         <nav>
           <ul className="flex font-manrope font-bold text-md space-x-6 mr-10">
-            <li className="flex items-center">
-              Home
+          <li className="flex items-center">
+              <a href="#home">Home</a> {/* Link to Home section */}
             </li>
             <li className="flex items-center">
-              Funcionalidades
+              <a href="#funcionalidades">Funcionalidades</a>
             </li>
             <li className="flex items-center">
-              Bora Jogar?
+              <a href="#bora-jogar">Bora Jogar?</a> 
             </li>
           </ul>
         </nav>
